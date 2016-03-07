@@ -1,0 +1,3 @@
+[submodule "MailQueue/PHPMailer"]
+	path = MailQueue/PHPMailer
+	url = https://github.com/PHPMailer/PHPMailer.git
